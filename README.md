@@ -63,7 +63,7 @@ sion Models (2021) arXiv: 2112.10752 [cs.CV].
 
 To run: 
 '''
-python ./latent-diffusion-main/main.py --base TEST_lsun_bedrooms-ldm-vq-4.yaml -t --gpus 0
+python ./latent-diffusion-main/main.py --base TEST_lsun_bedrooms-ldm-vq-4.yaml -t
 '''
 
 Get LSUN data from [here] (https://github.com/fyu/lsun)
