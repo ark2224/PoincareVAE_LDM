@@ -45,18 +45,18 @@ have with Professor Turkcan.
 ## **References**
 
 1. Valentin Khrulkov et al. “Hyperbolic Image Embeddings”. In: The IEEE/CVF
-Conference on Computer Vision and Pattern Recognition (CVPR). June 2020.
+Conference on Computer Vision and Pattern Recognition (CVPR). (June 2020)
 
 2. Yann LeCun and Corinna Cortes. “MNIST handwritten digit database”.
-In: (2010). url: http://yann.lecun.com/exdb/mnist/.
+In: (2010) url: http://yann.lecun.com/exdb/mnist/.
 
 3. Emile Mathieu et al. “Continuous Hierarchical Representations with Poincar ́e
 Variational Auto-Encoders”. In: Proceedings of the 33rd International Con-
 ference on Neural Information Processing Systems. Red Hook, NY, USA:
-Curran Associates Inc., 2019.
+Curran Associates Inc. (2019)
 
 4. Robin Rombach et al. High-Resolution Image Synthesis with Latent Diffu-
-sion Models. 2021. arXiv: 2112.10752 [cs.CV].
+sion Models (2021) arXiv: 2112.10752 [cs.CV].
 
 
 ## Tips
