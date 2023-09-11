@@ -45,8 +45,7 @@ have with Professor Turkcan.
 ## **References**
 
 1. Valentin Khrulkov et al. “Hyperbolic Image Embeddings”. In: The IEEE/CVF
-Conference on Computer Vision and Pattern Recognition (CVPR). June
-2020.
+Conference on Computer Vision and Pattern Recognition (CVPR). June 2020.
 
 2. Yann LeCun and Corinna Cortes. “MNIST handwritten digit database”.
 In: (2010). url: http://yann.lecun.com/exdb/mnist/.
