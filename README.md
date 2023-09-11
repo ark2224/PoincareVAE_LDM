@@ -1,11 +1,4 @@
 # **PoincareVAE_LDM**
-To run: 
-'''
-python ./latent-diffusion-main/main.py --base TEST_lsun_bedrooms-ldm-vq-4.yaml -t --gpus 0
-'''
-
-Get LSUN data from [here] (https://github.com/fyu/lsun)
-
 
 Latent diffusion models have taken the world of computer vision by storm. With
 state-of-the-art image synthesis, LDMs(such as Stable Diffusion), generate high-
@@ -65,3 +58,13 @@ Curran Associates Inc., 2019.
 
 4. Robin Rombach et al. High-Resolution Image Synthesis with Latent Diffu-
 sion Models. 2021. arXiv: 2112.10752 [cs.CV].
+
+
+## Tips
+
+To run: 
+'''
+python ./latent-diffusion-main/main.py --base TEST_lsun_bedrooms-ldm-vq-4.yaml -t --gpus 0
+'''
+
+Get LSUN data from [here] (https://github.com/fyu/lsun)
